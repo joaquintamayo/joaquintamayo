@@ -1,4 +1,4 @@
-# Joaquin Elijah P. Tamayo
+# Joaquin Elijah P. Tamayo 
 
 I'm Joaquin Elijah P. Tamayo, a passionate coder with a knack for database management. I thrive on diving into complex problems and devising elegant solutions. My tech journey began with the BS Computer Science program, and I've been exploring and learning since then.
 
@@ -35,5 +35,5 @@ I'm Joaquin Elijah P. Tamayo, a passionate coder with a knack for database manag
 
 ## Contact Me
 
-- LinkedIn: [LinkedIn Profile]()
-- Email: tamayojoaquinelijah@gmail.com
+🔗 LinkedIn: [LinkedIn Profile]()
+✉️ Email: tamayojoaquinelijah@gmail.com
