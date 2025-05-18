@@ -18,20 +18,27 @@ I'm Joaquin Elijah P. Tamayo, a passionate coder with a knack for database manag
 ## Skills 💼
 
 ### Programming 💻
-
 - Java
 - Javascript
+- PHP
 
 ### Databases 🛢️
-
 - IBM DB2 Cloud
 
-### Tools 🔧
+### Web & UI/UX 🖥️
+- HTML
+- CSS
+- Bootstrap
+- Figma
 
+### Data & Visualization 📊
+- Tableau
+- 
+### Tools 🔧
 - Lucidchart
 - Jaspersoft Studio
 - Eclipse
-- HTML
+- Canva
 
 ## Contact Me 📞
 
