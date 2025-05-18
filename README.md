@@ -33,7 +33,7 @@ I'm Joaquin Elijah P. Tamayo, a passionate coder with a knack for database manag
 
 ### Data & Visualization 📊
 - Tableau
-- 
+
 ### Tools 🔧
 - Lucidchart
 - Jaspersoft Studio
