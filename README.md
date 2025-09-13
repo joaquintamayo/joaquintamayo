@@ -42,5 +42,5 @@ I'm Joaquin Elijah P. Tamayo, a passionate coder with a knack for database manag
 
 ## Contact Me 📞
 
-- 🔗 LinkedIn: [LinkedIn Profile]()
+- 🔗 LinkedIn: https://www.linkedin.com/in/joaquintamayo
 - ✉️ Email: tamayojoaquinelijah@gmail.com
